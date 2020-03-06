@@ -9,7 +9,7 @@ import (
 	"github.com/arl/gitstatus"
 )
 
-const clear string = "#[fg=default]"
+const clear string = "#[fg=colour15]"
 
 // Config is the configuration of the Git status tmux formatter.
 type Config struct {
